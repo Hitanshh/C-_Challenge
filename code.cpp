@@ -8,13 +8,9 @@ void PrintSquare(int n){
         {
             cout<<"* ";
         }
-        cout<<endl;
-        
-    }
-    
+        cout<<endl;   
+    }   
 }
-
-
 
 int main(){
     PrintSquare(5);

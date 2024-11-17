@@ -23,13 +23,19 @@ class Son: public Father, public Mother{
     void grandchild(){
         cout<<"son";
     }
+
+    // Overriding the function with ambiguity problem for preventing ambiguity;
+    void father(){
+        cout<<"father function in class Sonn";
+    }
 };
 
 
 int main(){
     Son goliBeta;
     goliBeta.Father::father();    // best to remove ambiguity in the multiple inhritanc,
-    goliBeta.Mother::father();    // object . class_name :: function with ambiguity
-    // goliBeta.mother();
+    goliBeta.Mother::father();    // object . class_name :: function_name with ambiguity
+    
+    goliBeta.father();            // another method to solve the ambiguity is by overrinding the funtion in class itseldf
     return 0;
 }

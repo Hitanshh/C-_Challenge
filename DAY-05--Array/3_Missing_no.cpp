@@ -32,7 +32,7 @@ void missingNumber(vector<int> arr){
 }
 
 int main(){
-    vector<int> arr = {6,2,1,5,4,7};
+    vector<int> arr = {1,2,3,5};
     missingNumber(arr);
     return 0;
 }

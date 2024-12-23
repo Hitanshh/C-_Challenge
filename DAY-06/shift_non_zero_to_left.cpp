@@ -40,7 +40,7 @@ void pushZerosToEnd(vector<int>& arr) {
 
 
 int main(){
-    vector<int> arr = {10,5,0,8,0,6,6,8,0,1};
+    vector<int> arr = {10,5,0,8,0,6,6,8,0,1,55,2,6,8,0,0,4,6,8};
     print(arr);
     cout<<endl<<"after function: "<<endl;
     pushZerosToEnd(arr);

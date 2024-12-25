@@ -1,0 +1,28 @@
+All important Array questions..
+
+we're going to solve them for next 7 days continuously to make them fit in our muscle memory, first of all let's just go through them one by one and let's see how much time do we need to spend to complete them..
+
+we are considering total 17 Most asked array questions.. just finish them then we'll move on to the Recurrsion and BackTracking.. Then Most Important LinkedLists..
+
+Here are the questions..
+1.Reverse array* ✔️
+2.find min and max* ✔️
+3.missing number* ✔️
+4.merge two sorted array* ✔️
+5.sort an array 0s 1s 2s* ✔️
+6.one array is subset of another array* ✔️
+7.merge two sorted array without extra space* ✔️
+8.count pair with given sum
+9.Union of two array
+10.move all negative numbers to the beggining
+11.intersection of two arrays
+12.intersection of two unsorted arrays
+13.search in a row and column wise sorted matrix
+14.find sub array with given sum
+15.find sub array with given sum with negative numbers
+16.rotate an array
+17.rotate an array by 90 degree
+18.2nd largest element
+19.Remove duplicates
+20.Max Sub-array Sum
+21.appearing once in an array

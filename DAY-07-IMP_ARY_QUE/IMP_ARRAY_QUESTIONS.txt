@@ -10,7 +10,7 @@ Here are the questions..
 3.missing number* ✔️
 4.merge two sorted array* ✔️
 5.sort an array 0s 1s 2s* ✔️
-6.one array is subset of another array* ✔️
+6.one array is subset of another array
 7.merge two sorted array without extra space* ✔️
 8.count pair with given sum
 9.Union of two array

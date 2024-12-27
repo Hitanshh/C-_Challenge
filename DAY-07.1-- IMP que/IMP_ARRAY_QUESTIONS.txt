@@ -10,19 +10,20 @@ Here are the questions..
 3.missing number* ✔️
 4.merge two sorted array* ✔️
 5.sort an array 0s 1s 2s* ✔️
-6.one array is subset of another array
+6.one array is subset of another array* ✔️
 7.merge two sorted array without extra space* ✔️
-8.count pair with given sum
-9.Union of two array
+8.count pair with given sum* 🎟️✔️
+9.Union of two array* ✔️
 10.move all negative numbers to the beggining
-11.intersection of two arrays
-12.intersection of two unsorted arrays
+11.intersection of two arrays* ✔️
+12.intersection of two unsorted arrays*
 13.search in a row and column wise sorted matrix
 14.find sub array with given sum
 15.find sub array with given sum with negative numbers
 16.rotate an array
 17.rotate an array by 90 degree
-18.2nd largest element
-19.Remove duplicates
+18.2nd largest element ✔️
+19.Remove duplicates ✔️
 20.Max Sub-array Sum
 21.appearing once in an array
+22.3rd Largest element🎟️✔️

@@ -1,0 +1,4 @@
+Going to revise first 6 questions of imp array question file, 
+then after completing them thorughly I'll complete all the string questions(imp one) then I'll Start LinkedLists
+LinkedLists is very imp from the pov of placements
+after LinkedLists i dont think I have to put more efforts towards dsa for basics, as i've done all most imp questions, just need to revise all these questions, and start practicing on gfg and leetcode

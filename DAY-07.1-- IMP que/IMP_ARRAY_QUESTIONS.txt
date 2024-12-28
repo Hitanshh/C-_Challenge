@@ -18,12 +18,12 @@ Here are the questions..
 11.intersection of two arrays* ✔️
 12.intersection of two unsorted arrays*
 13.search in a row and column wise sorted matrix
-14.find sub array with given sum
-15.find sub array with given sum with negative numbers
+14.find sub array with given sum* ✔️
+15.find sub array with given sum with -ve numbers*✔️
 16.rotate an array
 17.rotate an array by 90 degree
-18.2nd largest element ✔️
-19.Remove duplicates ✔️
-20.Max Sub-array Sum
+18.2nd largest element* ✔️
+19.Remove duplicates* ✔️
+20.Max Sub-array Sum* ✔️
 21.appearing once in an array
 22.3rd Largest element🎟️✔️

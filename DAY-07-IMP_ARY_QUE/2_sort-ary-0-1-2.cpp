@@ -93,7 +93,7 @@ vector<int> Sort(vector<int> arr){
 }
 
 int main(){
-    vector<int> arr= {2,1,2,0,0,2,1,1,0};
+    vector<int> arr= {2,0,2};
     Sort(arr);
     return 0;
 }

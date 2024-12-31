@@ -14,7 +14,7 @@ struct Node{
     }
 };
 
-//OptimizedApproach.. TC-0(N), SC-0(N)
+//OptimizedApproach.. TC-0(N), SC-0(1)
 Node* ReverseLL(Node* &head){
     Node* prev = NULL;
     Node* curr = head;
